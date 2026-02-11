@@ -76,3 +76,10 @@
 .cast-table tr:hover {
     background-color: #ddd;
 }
+
+.name:hover {
+    text-shadow: 3px 3px 8px purple;
+    border: 2px solid orange;
+    padding: 4px;
+    border-radius: 6px;
+}
